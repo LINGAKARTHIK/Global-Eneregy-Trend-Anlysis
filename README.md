@@ -1,10 +1,10 @@
 "# Global-energy-trends-a-comprehensive-analysis-of-key"
 
-\# 🌍 Global Energy Trends: A Comprehensive Analysis
+\#  Global Energy Trends: A Comprehensive Analysis
 
 
 
-\## 📌 Project Overview
+\##  Project Overview
 
 This project presents an in-depth analysis of \*\*global energy consumption patterns\*\*, \*\*power generation trends\*\*, and the \*\*transition from non-renewable to renewable energy sources\*\* across countries and continents.
 
@@ -32,7 +32,7 @@ The analysis spans \*\*1990–2020\*\* for energy consumption and \*\*1997–201
 
 
 
-\## 🎯 Objectives
+\##  Objectives
 
 \- Consolidate fragmented global energy datasets into a unified model  
 
@@ -52,7 +52,7 @@ The analysis spans \*\*1990–2020\*\* for energy consumption and \*\*1997–201
 
 
 
-\## 🧩 Problem Statement
+\##  Problem Statement
 
 Despite the availability of global energy data, it is:
 
@@ -72,7 +72,7 @@ This project solves that by providing a \*\*single, easy-to-understand, visual a
 
 
 
-\## 🛠️ Tools \& Technologies
+\##  Tools \& Technologies
 
 \- \*\*Power BI Desktop\*\*
 
@@ -90,7 +90,7 @@ This project solves that by providing a \*\*single, easy-to-understand, visual a
 
 
 
-\## 📊 Data Sources
+\##  Data Sources
 
 \- Kaggle – Global Energy Statistics  
 
@@ -102,11 +102,11 @@ This project solves that by providing a \*\*single, easy-to-understand, visual a
 
 
 
-📁 \*\*Total datasets used:\*\* 6 CSV files  
+ \*\*Total datasets used:\*\* 6 CSV files  
 
-📈 \*\*Countries covered:\*\* 255  
+ \*\*Countries covered:\*\* 255  
 
-🌐 \*\*Time span:\*\* Up to 30 years  
+ \*\*Time span:\*\* Up to 30 years  
 
 
 
@@ -114,7 +114,7 @@ This project solves that by providing a \*\*single, easy-to-understand, visual a
 
 
 
-\## 🔄 Data Processing
+\##  Data Processing
 
 \### Data Cleaning
 
@@ -148,7 +148,7 @@ This project solves that by providing a \*\*single, easy-to-understand, visual a
 
 
 
-\## 📐 Data Model \& DAX Measures
+\##  Data Model \& DAX Measures
 
 Key DAX measures include:
 
@@ -168,9 +168,9 @@ Key DAX measures include:
 
 
 
-\## 📈 Dashboards Developed
+\##  Dashboards Developed
 
-\### 1️⃣ Global Energy Consumption Over Time
+\### 1️ Global Energy Consumption Over Time
 
 \- Country-wise and continent-wise trends
 
@@ -180,7 +180,7 @@ Key DAX measures include:
 
 
 
-\### 2️⃣ Energy Production – Sources
+\### 2️ Energy Production – Sources
 
 \- Renewable vs Non-Renewable comparison
 
@@ -190,7 +190,7 @@ Key DAX measures include:
 
 
 
-\### 3️⃣ Power Generation – Top 20 Countries
+\### 3️ Power Generation – Top 20 Countries
 
 \- World map visualization
 
@@ -200,7 +200,7 @@ Key DAX measures include:
 
 
 
-\### 4️⃣ Executive Report Dashboard
+\### 4️ Executive Report Dashboard
 
 \- Key insights \& findings
 
