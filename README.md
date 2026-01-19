@@ -319,7 +319,7 @@ Key DAX measures include:
 
  \*\*GitHub Repository:\*\*  
 
-https://github.com/OnkarDevkar/Global-energy-trends-a-comprehensive-analysis-of-key
+https://github.com/LINGAKARTHIK/Global-Eneregy-Trend-Anlysis
 
 
 
