@@ -214,7 +214,7 @@ Key DAX measures include:
 
 
 
-\## 📌 Key Insights
+\##  Key Insights
 
 \- \*\*Asia\*\* is the largest energy-consuming continent
 
@@ -234,7 +234,7 @@ Key DAX measures include:
 
 
 
-\## 🚀 Performance \& Optimization
+\## Performance \& Optimization
 
 \- Dashboard load time: \*\*< 3 seconds\*\*
 
@@ -250,7 +250,7 @@ Key DAX measures include:
 
 
 
-\## ⚠️ Limitations
+\##  Limitations
 
 \- Latest data limited to 2020 / 2017
 
@@ -266,7 +266,7 @@ Key DAX measures include:
 
 
 
-\## 🔮 Future Scope
+\##  Future Scope
 
 \- Real-time API data integration
 
@@ -286,7 +286,7 @@ Key DAX measures include:
 
 
 
-\## 📂 Repository Structure
+\##  Repository Structure
 
 ├── data/
 
@@ -316,15 +316,8 @@ Key DAX measures include:
 
 
 
-\## ▶️ Project Demo
 
-🎥 \*\*Video Demo:\*\*  
-
-https://drive.google.com/drive/folders/1B3\_POU2ybdCjWMjxNjbpqGE1u2vQmuXg
-
-
-
-📌 \*\*GitHub Repository:\*\*  
+ \*\*GitHub Repository:\*\*  
 
 https://github.com/OnkarDevkar/Global-energy-trends-a-comprehensive-analysis-of-key
 
@@ -334,23 +327,10 @@ https://github.com/OnkarDevkar/Global-energy-trends-a-comprehensive-analysis-of-
 
 
 
-\## 👤 Author
-
-\*\*Onkar Devkar\*\*  
-
-Data Analyst | Power BI | Python | SQL  
 
 
 
-📫 Feel free to connect or explore more projects!
 
-
-
----
-
-
-
-⭐ If you find this project useful, consider giving it a star!
 
 
 
